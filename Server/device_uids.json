@@ -1,0 +1,16 @@
+{
+  "44945A0CDADC": {
+    "model": "Relay",
+    "relay1": "off",
+    "relay2": "off",
+    "relay3": "off",
+    "relay4": "off"
+  },
+  "AABBCCDDEEFF": {
+    "model": "Relay",
+    "relay1": "off",
+    "relay2": "off",
+    "relay3": "off",
+    "relay4": "off"
+  }
+}

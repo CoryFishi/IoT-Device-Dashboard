@@ -1,0 +1,28 @@
+[
+  {
+    "uid": "44945A0CDADC",
+    "topic": "status/44945A0CDADC",
+    "timestamp": "2025-07-28T16:00:08.532Z",
+    "payload": {
+      "uid": "44945A0CDADC",
+      "model": "Relay",
+      "relay1": "off",
+      "relay2": "on",
+      "relay3": "off",
+      "relay4": "off"
+    }
+  },
+  {
+    "uid": "44945A0CDADC",
+    "topic": "status/44945A0CDADC",
+    "timestamp": "2025-07-28T16:00:09.314Z",
+    "payload": {
+      "uid": "44945A0CDADC",
+      "model": "Relay",
+      "relay1": "off",
+      "relay2": "off",
+      "relay3": "off",
+      "relay4": "off"
+    }
+  }
+]
